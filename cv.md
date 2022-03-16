@@ -52,3 +52,16 @@ function numToIp(num) {
     .join(".");
 }
 ```
+
+## Education:
+
+Master, Mytischi Branch of Bauman Moscow State Technical University
+(Space Faculty, Specialization: Informatics and Computer Engineering)
+
+## Experience:
+
+No
+
+## English:
+
+Currently Level A1
